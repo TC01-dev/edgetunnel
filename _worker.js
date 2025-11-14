@@ -1706,7 +1706,7 @@ async function nginx() {
 	<!DOCTYPE html>
 	<html>
 	<head>
-	<title>Welcome to nginx!</title>
+	<title>Welcome to nginx!123</title>
 	<style>
 		body {
 			width: 35em;
@@ -1822,3 +1822,4 @@ async function html1101(host, 访问IP) {
 </body>
 </html>`;
 }
+
